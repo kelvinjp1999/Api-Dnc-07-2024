@@ -1,0 +1,12 @@
+let posicao="Atacante"
+
+
+let jogador={
+    nome:'Neymar',
+    posicao
+}
+
+jogador.times=["Santos","Barcelona","PSG"]
+console.log(jogador)
+
+console.log(jogador.times[2])
